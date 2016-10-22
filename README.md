@@ -6,5 +6,5 @@ Ce projet a été réalisé durant ma 1ère année d'IUT informatique à Clermon
 
 Réalisé en C# avec Visual Studio 2015, le code n'est pas très propre mais il y a un peu de commentaire.
 
-- [Twitter](https://twitter.com/huextrat)
-- [LinkedIn](https://www.linkedin.com/in/hugoextrat)
+- ![Twitter](https://twitter.com/huextrat)
+- ![LinkedIn](https://www.linkedin.com/in/hugoextrat)
